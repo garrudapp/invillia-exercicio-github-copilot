@@ -142,3 +142,18 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants {
+  margin-top: 10px;
+}
+
+.participant {
+  display: inline-block;
+  background-color: #e0f7fa;
+  color: #00796b;
+  padding: 5px 10px;
+  margin: 5px 5px 0 0;
+  border-radius: 15px;
+  font-size: 14px;
+  border: 1px solid #b2dfdb;
+}
